@@ -2,7 +2,6 @@ function get_producto(cantidad){
     if(cantidad){
         return cantidad
     }
-    
 
 }
 
